@@ -1,10 +1,10 @@
-ВНИМАНИЕ!
+Attention!
 
-- Данная программа предназначена для скачивания веб-сайтов в целях исследования и экспериментов.
-- Использование программы для любых целей, которые могут нанести вред другим лицам, не рекомендуется.
-- Пользователь несет полную ответственность за все действия, совершенные с помощью данной программы.
-- Разработчик не несет ответственности за любые последствия использования программы.
-- Программа может собирать анонимные данные об использовании для улучшения функциональности. Эти данные могут быть использованы для любых целей.
-- Использование программы автоматически означает согласие с данными условиями.
+- This program is designed to download websites for research and experimentation purposes.
+- Using the program for any purpose that may harm others is not recommended.
+- The user is fully responsible for all actions performed using this program.
+- The developer is not responsible for any consequences of using the program.
+- The program may collect anonymous usage data to improve functionality. This data can be used for any purpose.
+- Using the program automatically means agreeing to these terms.
 
-PS Никакие данные не собираются, не обрабатываются.
+PS No data is collected or processed.
